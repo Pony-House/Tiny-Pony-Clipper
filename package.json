@@ -15,6 +15,7 @@
   "main": "src/main.js",
   "type": "module",
   "license": "AGPL-3.0-only",
+  "ethereum": "jasmindreasond.x",
   "keywords": [
     "electron",
     "wayland",
